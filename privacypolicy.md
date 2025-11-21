@@ -9,8 +9,6 @@ permalink: /privacypolicy/
 [Home](/index.html) | [About Us](/about.html) | [Privacy Policy](/privacypolicy.html) | [Terms and Conditions](/termsandconditions.html)
 ---
 
-# Privacy Policy
-
 <style>
   [data-custom-class='body'], [data-custom-class='body'] * {
           background: transparent !important;
