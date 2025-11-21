@@ -7,6 +7,7 @@ title: NV Data Technologies LLC
 ---
 
 # Privacy Policy
+<!-- Begin Termly Privacy Policy -->
 <style>
   [data-custom-class='body'], [data-custom-class='body'] * {
           background: transparent !important;
@@ -62,3 +63,4 @@ word-break: break-word !important;
     </style>
       </div>
       
+<!-- End Termly Privacy Policy -->
