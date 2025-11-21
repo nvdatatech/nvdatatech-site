@@ -15,4 +15,5 @@ NV Data Technologies LLC develops and operates digital software products, with a
 ---
 
 ## Contact Us
-You can reach us via email at support@nvdatatech.com.
+* You can reach us via email at support@nvdatatech.com.
+* Follow us on [facebook](https://www.facebook.com/profile.php?id=61583935116630)!
