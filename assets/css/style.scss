@@ -1,0 +1,8 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Custom CSS to hide the "View on GitHub" button */
+.btn {
+  display: none !important;
+}
