@@ -12,8 +12,7 @@ NV Data Technologies LLC develops and operates digital software products, with a
 # Available Products (applications)
 *   Pinlytics - Pro Bowling Analytics - Pinlytics is your ultimate bowling companion, transforming your scorecard photos into powerful insights. Track every frame, analyze your performance with detailed game and shot analytics, and build a rich history of your bowling journey. Sign up today at [pinlytics.app](https://www.pinlytics.app)!
 *   More products coming soon!
----
 
-## Contact Us
+# Contact Us
 * You can reach us via email at support@nvdatatech.com.
 * Follow us on [facebook](https://www.facebook.com/profile.php?id=61583935116630)!
