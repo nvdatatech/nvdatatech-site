@@ -1,5 +1,3 @@
-yaml
-
 ---
 layout: default
 title: NV Data Technologies LLC
