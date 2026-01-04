@@ -2,6 +2,7 @@
 layout: default
 title: Pinlytics - Pro Bowling Analytics
 permalink: /pinlytics/
+page_logo: /assets/images/408934d71_logo.png
 ---
 
 # Pinlytics — Bowling Analytics, Reinvented: 
