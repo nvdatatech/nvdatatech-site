@@ -19,9 +19,12 @@
 
     <header class="page-header" role="banner">
 
-      <img src="/Contemporary NV Data Technologies Logo.png"
-       alt="NV Data Technologies Logo"
+      {% assign header_logo = page.page_logo | default: "/Contemporary NV Data Technologies Logo.png" %}
+
+      <img src="{{ header_logo | relative_url }}"
+       alt="{{ page.title | default: site.title }} Logo"
        style="max-width:150px; margin-bottom: 20px;">
+
       
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
