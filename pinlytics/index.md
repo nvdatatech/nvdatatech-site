@@ -17,21 +17,21 @@ Capture your games, analyze detailed statistics with advanced filtering, and fol
 * Frame-by-Frame Entry
 * Pin-by-Pin (Pro)
 * CSV Import to quickly upload past games
-Every game contributes to your personal analytics profile.
+### Every game contributes to your personal analytics profile.
 
 ## Goals, Balls, and Style Tracking
 ### Stay focused on improvement:
 * Create goals for consistency, averages, or technique
 * Track all your bowling balls with performance history
 * Measure how changes in equipment or form affect your results
-Free users can track a few goals and balls, while Pro users track unlimited.
+### Free users can track a few goals and balls, while Pro users track unlimited.
 
 ## AI Insights (Pro)
 ### Pinlytics analyzes your bowling data and highlights patterns:
 * Where you're gaining or losing pins
 * Your most common trouble frames
 * Improvement streaks and long-term trends
-It’s like having a personalized coach built from data.
+### It’s like having a personalized coach built from data.
 
 ## Social & League Tools
 ### Connect your bowling journey:
@@ -44,7 +44,7 @@ It’s like having a personalized coach built from data.
 * Your stats shift
 * A new milestone is reached
 * You finish a standout game
-Never miss an update about your progress.
+### Never miss an update about your progress.
 
 ## Free vs. Pro
 Pinlytics offers a generous free tier so every bowler can benefit. Upgrade to Pro for unlimited tracking, AI features, and priority support.
