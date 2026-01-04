@@ -5,34 +5,40 @@ permalink: /pinlytics/
 page_logo: /assets/images/408934d71_logo.png
 ---
 
+[Return to NV Data Tech](/index.html)
+---
+
 # Pinlytics — Bowling Analytics, Reinvented: 
 
 Pinlytics helps bowlers understand their game at a deeper level. Whether you're tracking casual league nights or building toward competitive play, Pinlytics turns every score into meaningful insights that help you grow.
 Capture your games, analyze detailed statistics with advanced filtering, and follow your progress over time — all powered by clean design and smart data tools built for real bowlers.
 
+[**Sign up / Log in to Pinlytics →**](https://pinlytics.app)
+
 ## Track Games Your Way: 
 ### AI Scorecard Extraction: 
 * Snap a photo of your score sheet — Pinlytics automatically detects frames, fills, marks, and totals. No typing, no manual entry. Just instant stats.
-### Record games manually however you prefer:
+
+- Record games manually however you prefer:
 * Final Score Only
 * Frame-by-Frame Entry
 * Pin-by-Pin (Pro)
 * CSV Import to quickly upload past games
-### Every game contributes to your personal analytics profile.
+- Every game contributes to your personal analytics profile.
 
 ## Goals, Balls, and Style Tracking
 ### Stay focused on improvement:
 * Create goals for consistency, averages, or technique
 * Track all your bowling balls with performance history
 * Measure how changes in equipment or form affect your results
-### Free users can track a few goals and balls, while Pro users track unlimited.
+- Free users can track a few goals and balls, while Pro users track unlimited.
 
 ## AI Insights (Pro)
 ### Pinlytics analyzes your bowling data and highlights patterns:
 * Where you're gaining or losing pins
 * Your most common trouble frames
 * Improvement streaks and long-term trends
-### It’s like having a personalized coach built from data.
+- It’s like having a personalized coach built from data.
 
 ## Social & League Tools
 ### Connect your bowling journey:
@@ -40,12 +46,12 @@ Capture your games, analyze detailed statistics with advanced filtering, and fol
 * Track league performance (unlimited leagues with Pro)
 * Stay motivated with friends
 
-##Email Alerts (Pro)
+## Email Alerts (Pro)
 ### Get notified when:
 * Your stats shift
 * A new milestone is reached
 * You finish a standout game
-### Never miss an update about your progress.
+- Never miss an update about your progress.
 
 ## Free vs. Pro
 Pinlytics offers a generous free tier so every bowler can benefit. Upgrade to Pro for unlimited tracking, AI features, and priority support.
@@ -56,6 +62,7 @@ Pinlytics offers a generous free tier so every bowler can benefit. Upgrade to Pr
 * 3 active goals
 * 2 bowling balls
 * 1 active league
+
 ### Pro Plan Unlocks:
 * Unlimited games
 * Pin-by-pin entry
