@@ -21,7 +21,9 @@ Capture your games, analyze detailed statistics with advanced filtering, and fol
 * Frame-by-Frame Entry
 * Pin-by-Pin (Pro)
 * CSV Import to quickly upload past games
-
+![Add Game](/assets/images/Add_Game.PNG)
+![Add Game1](/assets/images/Frame-by-frame_game_entry.PNG)
+![Add Game2](/assets/images/Pin-by-pin_game_entry.PNG)
 - Every game contributes to your personal analytics profile.
 
 ## Goals, Balls, and Style Tracking
