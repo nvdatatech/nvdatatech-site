@@ -5,9 +5,6 @@ permalink: /pinlytics/
 page_logo: /assets/images/408934d71_logo.png
 ---
 
-[Return to NV Data Tech](/index.html)
----
-
 # Pinlytics — Bowling Analytics, Reinvented: 
 
 Pinlytics helps bowlers understand their game at a deeper level. Whether you're tracking casual league nights or building toward competitive play, Pinlytics turns every score into meaningful insights that help you grow.
@@ -24,6 +21,7 @@ Capture your games, analyze detailed statistics with advanced filtering, and fol
 * Frame-by-Frame Entry
 * Pin-by-Pin (Pro)
 * CSV Import to quickly upload past games
+
 - Every game contributes to your personal analytics profile.
 
 ## Goals, Balls, and Style Tracking
@@ -31,13 +29,13 @@ Capture your games, analyze detailed statistics with advanced filtering, and fol
 * Create goals for consistency, averages, or technique
 * Track all your bowling balls with performance history
 * Measure how changes in equipment or form affect your results
-- Free users can track a few goals and balls, while Pro users track unlimited.
 
 ## AI Insights (Pro)
 ### Pinlytics analyzes your bowling data and highlights patterns:
 * Where you're gaining or losing pins
 * Your most common trouble frames
 * Improvement streaks and long-term trends
+
 - It’s like having a personalized coach built from data.
 
 ## Social & League Tools
@@ -51,6 +49,7 @@ Capture your games, analyze detailed statistics with advanced filtering, and fol
 * Your stats shift
 * A new milestone is reached
 * You finish a standout game
+
 - Never miss an update about your progress.
 
 ## Free vs. Pro
@@ -73,6 +72,7 @@ Pinlytics offers a generous free tier so every bowler can benefit. Upgrade to Pr
 * Social features
 * Email alerts
 * Priority support
+
 * Pro plan costs $3.50/mo or $35/yr with annual billing turned on
 
 ## Build Consistency. Raise Your Average. Enjoy the Game.
@@ -80,3 +80,8 @@ Pinlytics is designed for bowlers who want to grow — whether you're chasing a 
 Download Pinlytics and start bowling with insight today!
 
 [**Sign up / Log in to Pinlytics →**](https://pinlytics.app)
+
+---
+| [Return to NV Data Technologies LLC](/index.html) |
+---
+
