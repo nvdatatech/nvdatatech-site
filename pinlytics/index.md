@@ -38,7 +38,7 @@ Capture your games, analyze detailed statistics with advanced filtering, and fol
 - Every game contributes to your personal analytics profile.
 
 ## Advanced Statistics
-### Deep dive into your bowling performance with a plethora of filterable stats
+### Deep dive into your bowling performance with an array of filterable stats
 * Scoring stats - focused on average and high game/series with trends over time
 * Milestone stats - tracking how many games / series have been bowled over milestone scores
 * Frame Analysis stats - track advanced stats like strike rate, spare rate, split conversion rate, first ball average, average open frames/game, 10th frame analysis, and so much more!
@@ -67,7 +67,7 @@ Capture your games, analyze detailed statistics with advanced filtering, and fol
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin: 30px 0;">
   <img src="/assets/images/Goals.png"
        alt="Goals"
-       style="width: 260px; border-radius: 8px;">
+       style="width: 400px; border-radius: 8px;">
 
   <img src="/assets/images/Bowling_balls.PNG"
        alt="Bowling Balls"
@@ -86,7 +86,7 @@ Capture your games, analyze detailed statistics with advanced filtering, and fol
 
   <img src="/assets/images/AI_insights_2.png"
        alt="AI Insights 2"
-       style="width: 260px; border-radius: 8px;">
+       style="width: 400px; border-radius: 8px;">
 
 </div>
 - It’s like having a personalized coach built from data.
@@ -117,6 +117,12 @@ Capture your games, analyze detailed statistics with advanced filtering, and fol
 
 ## Free vs. Pro
 Pinlytics offers a generous free tier so every bowler can benefit. Upgrade to Pro for unlimited tracking, AI features, and priority support.
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin: 30px 0;">
+  <img src="/assets/images/subscription_tiers.png"
+       alt="Plan features"
+       style="width: 600px; border-radius: 8px;">
+
+</div>
 ### Basic Plan Includes:
 * 6 games per month
 * Frame-by-frame entry
@@ -135,12 +141,7 @@ Pinlytics offers a generous free tier so every bowler can benefit. Upgrade to Pr
 * Social features
 * Email alerts
 * Priority support
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin: 30px 0;">
-  <img src="/assets/images/subscription_tiers.png"
-       alt="Plan features"
-       style="width: 300px; border-radius: 8px;">
 
-</div>
 * Pro plan costs $3.50/mo or $35/yr with annual billing turned on
 
 ## Build Consistency. Raise Your Average. Enjoy the Game.
