@@ -37,6 +37,28 @@ Capture your games, analyze detailed statistics with advanced filtering, and fol
 
 - Every game contributes to your personal analytics profile.
 
+## Advanced Statistics
+### Deep dive into your bowling performance with a plethora of filterable stats
+* Scoring stats - focused on average and high game/series with trends over time
+* Milestone stats - tracking how many games / series have been bowled over milestone scores
+* Frame Analysis stats - track advanced stats like strike rate, spare rate, split conversion rate, first ball average, average open frames/game, 10th frame analysis, and so much more!
+* Ball analysis stats - understand what balls do you perform the best with
+* Pinfall analysis (pro feature) - understand what pin leaves are left most frequently and how well are they converted - for targeted improvement in spare shooting
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin: 30px 0;">
+  <img src="/assets/images/Scoring_Stats.PNG"
+       alt="Scoring stats"
+       style="width: 260px; border-radius: 8px;">
+
+  <img src="/assets/images/Milestone_Stats.PNG"
+       alt="Milestone stats"
+       style="width: 260px; border-radius: 8px;">
+
+  <img src="/assets/images/Frame-by-frame_Stats.PNG"
+       alt="Frame analysis stats"
+       style="width: 260px; border-radius: 8px;">
+</div>
+-Advanced filtering on all statistics pages allow you to slice and dice your bowling history and statistics to give you tangible insights on how best to improve your game
+
 ## Goals, Balls, and Style Tracking
 ### Stay focused on improvement:
 * Create goals for consistency, averages, or technique
