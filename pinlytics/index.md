@@ -64,13 +64,31 @@ Capture your games, analyze detailed statistics with advanced filtering, and fol
 * Create goals for consistency, averages, or technique
 * Track all your bowling balls with performance history
 * Measure how changes in equipment or form affect your results
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin: 30px 0;">
+  <img src="/assets/images/Goals.png"
+       alt="Goals"
+       style="width: 260px; border-radius: 8px;">
 
+  <img src="/assets/images/Bowling_balls.PNG"
+       alt="Bowling Balls"
+       style="width: 260px; border-radius: 8px;">
+
+</div>
 ## AI Insights (Pro)
 ### Pinlytics analyzes your bowling data and highlights patterns:
 * Where you're gaining or losing pins
 * Your most common trouble frames
 * Improvement streaks and long-term trends
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin: 30px 0;">
+  <img src="/assets/images/AI_insights.PNG"
+       alt="AI Insights 1"
+       style="width: 260px; border-radius: 8px;">
 
+  <img src="/assets/images/AI_insights_2.png"
+       alt="AI Insights 2"
+       style="width: 260px; border-radius: 8px;">
+
+</div>
 - It’s like having a personalized coach built from data.
 
 ## Social & League Tools
@@ -78,6 +96,16 @@ Capture your games, analyze detailed statistics with advanced filtering, and fol
 * Share achievements and progress
 * Track league performance (unlimited leagues with Pro)
 * Stay motivated with friends
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin: 30px 0;">
+  <img src="/assets/images/Pinlytics_social.PNG"
+       alt="Pinlytics Social"
+       style="width: 260px; border-radius: 8px;">
+
+  <img src="/assets/images/League_management.PNG"
+       alt="League Management"
+       style="width: 260px; border-radius: 8px;">
+
+</div>
 
 ## Email Alerts (Pro)
 ### Get notified when:
@@ -107,7 +135,12 @@ Pinlytics offers a generous free tier so every bowler can benefit. Upgrade to Pr
 * Social features
 * Email alerts
 * Priority support
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin: 30px 0;">
+  <img src="/assets/images/subscription_tiers.png"
+       alt="Plan features"
+       style="width: 300px; border-radius: 8px;">
 
+</div>
 * Pro plan costs $3.50/mo or $35/yr with annual billing turned on
 
 ## Build Consistency. Raise Your Average. Enjoy the Game.
