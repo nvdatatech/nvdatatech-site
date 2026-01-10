@@ -11,3 +11,46 @@
 footer.site-footer {
   display: none !important;
 }
+
+/* === Pinlytics Theme Overrides === */
+
+/* Header background gradient */
+.page-header {
+  background-color: #115e59; /* fallback */
+  background-image: linear-gradient(
+    120deg,
+    #115e59,
+    #115e59
+  );
+}
+
+/* Main headings */
+h1, h2, h3 {
+  color: #0f766e;
+}
+
+/* Section headers */
+.main-content h2 {
+  color: #16a34a;
+}
+
+/* Links */
+a {
+  color: #2563eb;
+}
+
+a:hover {
+  color: #1e40af;
+}
+
+/* Buttons */
+.btn {
+  background-color: #0f766e;
+  border-color: #0f766e;
+}
+
+.btn:hover {
+  background-color: #115e59;
+  border-color: #115e59;
+}
+
