@@ -1,3 +1,5 @@
+description: Bowling analytics app that tracks scores, analyzes frames, and provides AI-powered insights for league and competitive bowlers.
+
 ---
 layout: default
 title: Pinlytics - Pro Bowling Analytics
