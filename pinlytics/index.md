@@ -5,6 +5,8 @@ permalink: /pinlytics/
 page_logo: /assets/images/408934d71_logo.png
 ---
 
+# _Currently in beta — feedback shapes what we build next!_
+
 # Pinlytics — Bowling Analytics, Reinvented: 
 
 Pinlytics helps bowlers understand their game at a deeper level. Whether you're tracking casual league nights or building toward competitive play, Pinlytics turns every score into meaningful insights that help you grow.
