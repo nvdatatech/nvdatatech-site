@@ -7,7 +7,7 @@ page_logo: /assets/images/408934d71_logo.png
 
 # _Currently in beta — feedback shapes what we build next!_
 
-**Use promo code BETATEST26 for 12 months of free Pro features!** We are looking for valuable user feedback to improve application quality and performance.
+**Use promo code BETATEST26 for 12 months of free Pro features!** We are looking for valuable user feedback to improve application quality and performance. Please email all comments and feedback to **support@nvdatatech.com**!
 
 # Pinlytics — Bowling Analytics, Reinvented: 
 
