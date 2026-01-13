@@ -7,6 +7,8 @@ page_logo: /assets/images/408934d71_logo.png
 
 # _Currently in beta — feedback shapes what we build next!_
 
+**Use promo code BETATEST26 for 12 months of free Pro features!** We are looking for valuable user feedback to improve application quality and performance.
+
 # Pinlytics — Bowling Analytics, Reinvented: 
 
 Pinlytics helps bowlers understand their game at a deeper level. Whether you're tracking casual league nights or building toward competitive play, Pinlytics turns every score into meaningful insights that help you grow.
@@ -144,7 +146,7 @@ Pinlytics offers a generous free tier so every bowler can benefit. Upgrade to Pr
 * Email alerts
 * Priority support
 
-* Pro plan costs $3.50/mo or $35/yr with annual billing turned on
+* Pro plan costs $3.50/mo or $35/yr with annual billing turned on. Use promo code BETATEST26 for 12 months of free Pro features!
 
 ## Build Consistency. Raise Your Average. Enjoy the Game.
 Pinlytics is designed for bowlers who want to grow — whether you're chasing a new high score or building toward league competition.
