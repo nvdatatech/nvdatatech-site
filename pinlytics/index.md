@@ -122,13 +122,14 @@ Capture your games, analyze detailed statistics with advanced filtering, and fol
 ## Free vs. Pro
 Pinlytics offers a generous free tier so every bowler can benefit. Upgrade to Pro for unlimited tracking, AI features, and priority support.
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin: 30px 0;">
-  <img src="/assets/images/subscription_tiers.png"
+  <img src="/assets/images/subscription_tiers1.png"
        alt="Plan features"
        style="width: 600px; border-radius: 8px;">
 
 </div>
 ### Basic Plan Includes:
 * 6 games per month
+* Scorecard Photo Upload (AI extraction)
 * Frame-by-frame entry
 * Basic stats
 * 3 active goals
@@ -137,10 +138,11 @@ Pinlytics offers a generous free tier so every bowler can benefit. Upgrade to Pr
 
 ### Pro Plan Unlocks:
 * Unlimited games
+* Scorecard Photo Upload (AI extraction)
+* Frame-by-frame entry
 * Pin-by-pin entry
 * Unlimited CSV imports
-* Full AI scorecard extraction
-* Advanced pinfall analytics
+* Basic stats plus advanced pinfall analytics
 * Unlimited goals, balls, and leagues
 * Social features
 * Email alerts
