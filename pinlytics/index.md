@@ -5,9 +5,7 @@ permalink: /pinlytics/
 page_logo: /assets/images/408934d71_logo.png
 ---
 
-# _Currently in beta — feedback shapes what we build next!_
-
-**Use promo code BETATEST26 for 12 months of free Pro features!** We are looking for valuable user feedback to improve application quality and performance. Please email all comments and feedback to **support@nvdatatech.com**!
+**Use promo code STRIKE300 for 1 month of free Pro features!**
 
 # Pinlytics — Bowling Analytics, Reinvented: 
 
